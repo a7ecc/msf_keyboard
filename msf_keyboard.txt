@@ -1,0 +1,4 @@
+ps
+migrate %id%
+keyscan_start
+keyscan_dump
